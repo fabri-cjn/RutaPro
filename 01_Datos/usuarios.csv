@@ -1,0 +1,151 @@
+user_id,carrera,ciclo,nivel,idioma_preferido,objetivo_laboral,intereses,habilidades_actuales,fecha_registro
+U001,Ingeniería de Sistemas,8,Intermedio,es,Project Analyst,Habilidades Blandas; Gestión de Proyectos,Python; SQL y Bases de Datos,2026-04-20
+U002,Economía,6,Intermedio,es+en,Analista Financiero,Excel; Power BI; SQL y Bases de Datos,Estadística; Excel,2026-06-03
+U003,Ingeniería de Sistemas,9,Avanzado,es+en,Project Analyst,Excel; Gestión de Proyectos,Python; SQL y Bases de Datos,2026-02-07
+U004,Ingeniería de Sistemas,10,Intermedio,es,Project Analyst,Gestión de Proyectos; Excel; Análisis de Datos,Python,2026-05-18
+U005,Economía,9,Avanzado,es,Marketing Analyst,Análisis de Datos; Tableau y Visualización; Power BI,Excel; Estadística,2026-06-04
+U006,Estadística e Informática,5,Intermedio,es+en,Data Analyst,Machine Learning; Power BI,Python; Estadística; R,2026-01-28
+U007,Ingeniería de Sistemas,8,Intermedio,es+en,Data Scientist,Estadística; SQL y Bases de Datos,SQL y Bases de Datos; Python,2026-04-17
+U008,Estadística e Informática,6,Básico,es,Analista Financiero,Excel; R,Python,2026-05-03
+U009,Ingeniería de Sistemas,9,Avanzado,es,BI Analyst,SQL y Bases de Datos; Tableau y Visualización,SQL y Bases de Datos,2026-04-23
+U010,Estadística e Informática,10,Avanzado,es+en,Data Analyst,Excel; Estadística; SQL y Bases de Datos,Estadística; Excel; R,2026-03-31
+U011,Ingeniería de Sistemas,10,Avanzado,es+en,BI Analyst,Power BI; Excel,SQL y Bases de Datos; Python,2026-04-19
+U012,Ingeniería Industrial,10,Intermedio,es+en,Data Analyst,Análisis de Datos; R; Estadística,Gestión de Proyectos,2026-04-15
+U013,Ingeniería Industrial,5,Básico,es+en,Analista Financiero,Python; Power BI; Excel,Estadística; Excel,2026-02-12
+U014,Estadística e Informática,8,Intermedio,es,Marketing Analyst,Python; Habilidades Blandas; Tableau y Visualización,Excel; R,2026-01-21
+U015,Ingeniería Industrial,9,Intermedio,es+en,Project Analyst,Power BI; Tableau y Visualización,Estadística; Gestión de Proyectos,2026-03-11
+U016,Administración,5,Básico,es+en,Project Analyst,Gestión de Proyectos; Power BI,Excel,2026-06-10
+U017,Ingeniería de Sistemas,10,Avanzado,es,Data Analyst,Python; Tableau y Visualización; Excel,SQL y Bases de Datos,2026-04-22
+U018,Economía,9,Intermedio,es+en,Project Analyst,Habilidades Blandas; Excel; SQL y Bases de Datos,Excel,2026-04-16
+U019,Administración,5,Intermedio,es+en,Marketing Analyst,Tableau y Visualización; Power BI; Análisis de Datos,Habilidades Blandas; Excel,2026-04-01
+U020,Estadística e Informática,9,Avanzado,es,Data Analyst,Python; Análisis de Datos; SQL y Bases de Datos,Estadística; R; Python,2026-01-11
+U021,Economía,6,Avanzado,es+en,Analista Financiero,Python; Excel,Excel,2026-02-02
+U022,Ingeniería de Sistemas,10,Avanzado,es+en,Data Scientist,Python; Machine Learning,SQL y Bases de Datos,2026-01-21
+U023,Estadística e Informática,9,Avanzado,es,Data Analyst,Power BI; Estadística; Gestión de Proyectos,Python,2026-03-11
+U024,Administración,7,Intermedio,es,Marketing Analyst,Excel; Tableau y Visualización,Habilidades Blandas,2026-02-10
+U025,Administración,8,Intermedio,es+en,Project Analyst,Excel; Habilidades Blandas; Power BI,Excel,2026-05-09
+U026,Ingeniería Industrial,10,Intermedio,es,Analista Financiero,Power BI; Estadística; Análisis de Datos,Gestión de Proyectos,2026-05-10
+U027,Estadística e Informática,6,Intermedio,es,Data Scientist,R; Python; Machine Learning,R,2026-03-17
+U028,Estadística e Informática,10,Intermedio,es,Data Analyst,Python; SQL y Bases de Datos; Estadística,Excel; Python,2026-07-21
+U029,Ingeniería Industrial,6,Intermedio,es,Project Analyst,Power BI; Gestión de Proyectos,Estadística,2026-04-12
+U030,Estadística e Informática,5,Básico,es+en,Data Scientist,Python; Análisis de Datos,Estadística; Python; Excel,2026-02-28
+U031,Administración,10,Avanzado,es+en,Marketing Analyst,Estadística; Tableau y Visualización; Análisis de Datos,Habilidades Blandas,2026-04-23
+U032,Economía,9,Básico,es+en,BI Analyst,Power BI; Excel; Tableau y Visualización,Estadística; Excel,2026-04-03
+U033,Ingeniería de Sistemas,6,Intermedio,es+en,Project Analyst,Tableau y Visualización; Gestión de Proyectos,SQL y Bases de Datos; Python,2026-06-08
+U034,Administración,8,Básico,es+en,Marketing Analyst,Excel; Machine Learning; Análisis de Datos,Excel; Habilidades Blandas,2026-05-30
+U035,Estadística e Informática,8,Avanzado,es,Data Analyst,Habilidades Blandas; Análisis de Datos; Tableau y Visualización,Python; Excel,2026-08-15
+U036,Economía,10,Básico,es+en,Analista Financiero,Power BI; Tableau y Visualización,Excel,2026-04-24
+U037,Ingeniería Industrial,9,Intermedio,es+en,Project Analyst,Habilidades Blandas; Excel; SQL y Bases de Datos,Estadística; Gestión de Proyectos,2026-08-12
+U038,Ingeniería de Sistemas,9,Avanzado,es+en,BI Analyst,Excel; SQL y Bases de Datos; Power BI,Python,2026-08-16
+U039,Economía,9,Intermedio,es+en,Analista Financiero,Análisis de Datos; Power BI,Excel,2026-06-08
+U040,Ingeniería de Sistemas,10,Básico,es+en,Project Analyst,Excel; Gestión de Proyectos; Python,SQL y Bases de Datos; Python,2026-06-25
+U041,Economía,9,Intermedio,es,Data Scientist,Machine Learning; Python; Habilidades Blandas,Excel; Estadística,2026-06-16
+U042,Administración,6,Avanzado,es+en,Data Analyst,Python; Análisis de Datos,Habilidades Blandas; Excel,2026-03-01
+U043,Estadística e Informática,6,Básico,es+en,Data Scientist,Python; SQL y Bases de Datos,Python; Excel,2026-07-14
+U044,Estadística e Informática,6,Intermedio,es+en,Data Analyst,Machine Learning; Estadística; Análisis de Datos,R; Estadística,2026-01-28
+U045,Ingeniería Industrial,5,Básico,es+en,Project Analyst,Habilidades Blandas; Excel,Excel,2026-03-07
+U046,Ingeniería de Sistemas,8,Básico,es+en,Data Scientist,Python; Análisis de Datos; Machine Learning,SQL y Bases de Datos; Python,2026-01-23
+U047,Estadística e Informática,7,Intermedio,es+en,BI Analyst,Tableau y Visualización; SQL y Bases de Datos; Gestión de Proyectos,Estadística; R,2026-05-11
+U048,Ingeniería Industrial,9,Básico,es+en,Project Analyst,Gestión de Proyectos; Excel; Tableau y Visualización,Excel; Estadística,2026-04-14
+U049,Ingeniería Industrial,7,Intermedio,es,BI Analyst,Tableau y Visualización; Excel; SQL y Bases de Datos,Gestión de Proyectos,2026-04-26
+U050,Estadística e Informática,7,Intermedio,es+en,Data Scientist,R; Excel; Machine Learning,Python; R,2026-04-15
+U051,Ingeniería Industrial,8,Intermedio,es+en,Data Scientist,Análisis de Datos; Estadística,Gestión de Proyectos; Excel; Estadística,2026-03-18
+U052,Administración,7,Básico,es+en,Data Analyst,Python; SQL y Bases de Datos,Habilidades Blandas; Excel,2026-02-12
+U053,Economía,5,Intermedio,es+en,Data Analyst,Excel; SQL y Bases de Datos; Tableau y Visualización,Excel; Estadística,2026-03-30
+U054,Administración,5,Básico,es+en,Marketing Analyst,Análisis de Datos; Tableau y Visualización; R,Excel; Habilidades Blandas,2026-02-20
+U055,Ingeniería Industrial,7,Intermedio,es+en,Data Analyst,Tableau y Visualización; Análisis de Datos,Estadística; Gestión de Proyectos; Excel,2026-04-19
+U056,Economía,6,Básico,es+en,Analista Financiero,SQL y Bases de Datos; Excel,Estadística,2026-08-17
+U057,Estadística e Informática,5,Básico,es+en,Data Analyst,Python; SQL y Bases de Datos; Análisis de Datos,Python; Excel,2026-06-07
+U058,Ingeniería de Sistemas,9,Intermedio,es+en,Data Analyst,Excel; Análisis de Datos; Power BI,Python; SQL y Bases de Datos,2026-07-27
+U059,Ingeniería Industrial,7,Avanzado,es,Analista Financiero,Power BI; SQL y Bases de Datos; Excel,Estadística; Excel; Gestión de Proyectos,2026-02-13
+U060,Economía,6,Avanzado,es+en,Data Analyst,Excel; Tableau y Visualización,Estadística; Excel,2026-03-09
+U061,Ingeniería de Sistemas,8,Intermedio,es+en,Project Analyst,Habilidades Blandas; Gestión de Proyectos; Análisis de Datos,SQL y Bases de Datos; Python,2026-07-30
+U062,Estadística e Informática,8,Intermedio,es+en,BI Analyst,Habilidades Blandas; Excel; Tableau y Visualización,Python; Excel; R,2026-03-14
+U063,Ingeniería de Sistemas,5,Avanzado,es+en,BI Analyst,Power BI; Estadística,SQL y Bases de Datos; Python,2026-02-23
+U064,Administración,8,Avanzado,es,Project Analyst,SQL y Bases de Datos; Excel,Excel; Habilidades Blandas,2026-07-05
+U065,Ingeniería de Sistemas,9,Avanzado,es+en,Project Analyst,Power BI; Gestión de Proyectos,Python,2026-07-28
+U066,Estadística e Informática,10,Básico,es+en,Data Scientist,Análisis de Datos; Machine Learning; SQL y Bases de Datos,Excel; Python,2026-07-09
+U067,Economía,10,Intermedio,es,Analista Financiero,Excel; SQL y Bases de Datos; Análisis de Datos,Excel; Estadística,2026-05-10
+U068,Economía,10,Básico,es+en,Data Scientist,Machine Learning; R,Estadística; Excel,2026-05-01
+U069,Ingeniería Industrial,10,Intermedio,es,Data Analyst,Python; Power BI,Estadística,2026-06-04
+U070,Economía,7,Intermedio,es+en,Project Analyst,Power BI; Habilidades Blandas,Excel; Estadística,2026-03-21
+U071,Administración,6,Básico,es+en,Marketing Analyst,Power BI; Excel; SQL y Bases de Datos,Habilidades Blandas; Excel,2026-03-10
+U072,Ingeniería Industrial,6,Básico,es+en,Project Analyst,Habilidades Blandas; Gestión de Proyectos; Análisis de Datos,Estadística,2026-04-25
+U073,Ingeniería Industrial,6,Intermedio,es+en,Data Analyst,Excel; Python; Habilidades Blandas,Excel; Gestión de Proyectos,2026-01-10
+U074,Estadística e Informática,8,Intermedio,es,BI Analyst,SQL y Bases de Datos; Power BI,Excel; Estadística; Python,2026-08-26
+U075,Economía,6,Básico,es,Data Scientist,Python; Estadística,Estadística; Excel,2026-01-08
+U076,Economía,6,Intermedio,es,Analista Financiero,Excel; Power BI,Estadística,2026-06-16
+U077,Estadística e Informática,9,Básico,es+en,Marketing Analyst,Análisis de Datos; Excel,R; Estadística,2026-01-05
+U078,Estadística e Informática,10,Básico,es,Data Analyst,SQL y Bases de Datos; Tableau y Visualización; Análisis de Datos,Estadística; R,2026-07-27
+U079,Ingeniería Industrial,7,Avanzado,es,Project Analyst,Habilidades Blandas; Análisis de Datos,Gestión de Proyectos; Excel; Estadística,2026-03-29
+U080,Administración,5,Básico,es,Marketing Analyst,Tableau y Visualización; Power BI,Excel; Habilidades Blandas,2026-01-08
+U081,Economía,7,Intermedio,es+en,Data Analyst,R; Excel,Estadística,2026-02-05
+U082,Estadística e Informática,8,Intermedio,es,Data Analyst,Habilidades Blandas; Python; Gestión de Proyectos,Python; R,2026-01-31
+U083,Administración,5,Básico,es,Analista Financiero,Python; Tableau y Visualización; Excel,Excel; Habilidades Blandas,2026-07-23
+U084,Estadística e Informática,5,Intermedio,es,Data Analyst,Tableau y Visualización; Excel; R,Python; Excel,2026-03-07
+U085,Administración,9,Intermedio,es,Analista Financiero,Power BI; Excel,Habilidades Blandas; Excel,2026-07-07
+U086,Economía,10,Básico,es+en,Analista Financiero,Excel; Análisis de Datos,Estadística,2026-08-10
+U087,Estadística e Informática,7,Avanzado,es,Data Scientist,Estadística; Machine Learning,Python; Excel,2026-08-19
+U088,Estadística e Informática,8,Avanzado,es+en,Marketing Analyst,Excel; Análisis de Datos; Python,Estadística,2026-08-26
+U089,Economía,9,Intermedio,es,Marketing Analyst,Estadística; Tableau y Visualización; Análisis de Datos,Excel; Estadística,2026-04-24
+U090,Estadística e Informática,7,Básico,es,BI Analyst,Tableau y Visualización; Excel,Excel,2026-06-26
+U091,Estadística e Informática,6,Intermedio,es,Data Scientist,Python; Estadística,Estadística,2026-04-24
+U092,Economía,5,Avanzado,es+en,Data Scientist,Estadística; Python,Excel,2026-02-02
+U093,Ingeniería de Sistemas,6,Intermedio,es+en,Project Analyst,Habilidades Blandas; Excel; Tableau y Visualización,Python; SQL y Bases de Datos,2026-04-14
+U094,Administración,5,Básico,es,Marketing Analyst,Excel; Análisis de Datos,Excel,2026-05-22
+U095,Ingeniería de Sistemas,9,Intermedio,es+en,BI Analyst,Estadística; SQL y Bases de Datos,SQL y Bases de Datos; Python,2026-01-30
+U096,Administración,9,Avanzado,es,BI Analyst,Power BI; SQL y Bases de Datos,Habilidades Blandas; Excel,2026-07-26
+U097,Administración,9,Intermedio,es,Analista Financiero,Excel; Habilidades Blandas,Habilidades Blandas,2026-01-01
+U098,Ingeniería Industrial,9,Intermedio,es+en,BI Analyst,SQL y Bases de Datos; Gestión de Proyectos; Tableau y Visualización,Estadística; Gestión de Proyectos,2026-02-09
+U099,Ingeniería Industrial,10,Básico,es,BI Analyst,Análisis de Datos; Excel,Excel; Estadística; Gestión de Proyectos,2026-04-08
+U100,Ingeniería Industrial,8,Avanzado,es+en,Project Analyst,Gestión de Proyectos; Excel,Excel; Estadística; Gestión de Proyectos,2026-01-13
+U101,Economía,5,Intermedio,es+en,Analista Financiero,Excel; Gestión de Proyectos; Power BI,Estadística,2026-07-03
+U102,Administración,5,Básico,es+en,BI Analyst,SQL y Bases de Datos; Tableau y Visualización; Power BI,Excel,2026-08-13
+U103,Economía,7,Intermedio,es+en,Data Scientist,Estadística; Análisis de Datos; Power BI,Estadística; Excel,2026-06-14
+U104,Administración,8,Avanzado,es+en,Analista Financiero,Habilidades Blandas; Power BI,Habilidades Blandas; Excel,2026-03-15
+U105,Administración,9,Intermedio,es+en,Marketing Analyst,Análisis de Datos; Tableau y Visualización,Habilidades Blandas; Excel,2026-04-12
+U106,Ingeniería Industrial,7,Intermedio,es,BI Analyst,SQL y Bases de Datos; Tableau y Visualización,Gestión de Proyectos,2026-06-28
+U107,Estadística e Informática,8,Básico,es+en,Data Analyst,SQL y Bases de Datos; Estadística; Python,Estadística; Excel; R,2026-03-10
+U108,Ingeniería de Sistemas,10,Intermedio,es+en,Data Analyst,Gestión de Proyectos; Tableau y Visualización; SQL y Bases de Datos,SQL y Bases de Datos,2026-01-16
+U109,Administración,6,Intermedio,es,Analista Financiero,Análisis de Datos; Tableau y Visualización; Power BI,Excel; Habilidades Blandas,2026-07-25
+U110,Economía,10,Intermedio,es+en,Analista Financiero,Excel; Gestión de Proyectos; Análisis de Datos,Excel; Estadística,2026-01-06
+U111,Ingeniería de Sistemas,9,Intermedio,es+en,Data Scientist,R; SQL y Bases de Datos; Estadística,Python,2026-04-10
+U112,Estadística e Informática,8,Básico,es,Analista Financiero,Excel; Análisis de Datos; SQL y Bases de Datos,Python; Estadística; R,2026-04-20
+U113,Estadística e Informática,10,Intermedio,es+en,Data Analyst,Habilidades Blandas; Python; SQL y Bases de Datos,Python; Estadística; R,2026-08-04
+U114,Ingeniería de Sistemas,7,Básico,es+en,Data Scientist,Estadística; Machine Learning,SQL y Bases de Datos; Python,2026-08-30
+U115,Administración,5,Intermedio,es+en,Data Analyst,Excel; Power BI; Python,Excel; Habilidades Blandas,2026-03-27
+U116,Ingeniería de Sistemas,9,Intermedio,es,Data Scientist,Machine Learning; Estadística; Análisis de Datos,Python,2026-05-19
+U117,Estadística e Informática,10,Intermedio,es,Data Analyst,Python; Power BI; Machine Learning,Estadística,2026-01-09
+U118,Ingeniería de Sistemas,9,Básico,es+en,Data Analyst,Análisis de Datos; Power BI; Python,Python; SQL y Bases de Datos,2026-06-29
+U119,Economía,6,Intermedio,es+en,Analista Financiero,Excel; Análisis de Datos; SQL y Bases de Datos,Estadística; Excel,2026-02-12
+U120,Estadística e Informática,5,Avanzado,es,BI Analyst,Tableau y Visualización; Power BI; Análisis de Datos,Excel; R; Python,2026-05-30
+U121,Ingeniería de Sistemas,6,Intermedio,es+en,BI Analyst,Análisis de Datos; Tableau y Visualización; Python,SQL y Bases de Datos; Python,2026-08-15
+U122,Ingeniería Industrial,8,Intermedio,es+en,BI Analyst,Power BI; SQL y Bases de Datos,Gestión de Proyectos; Estadística; Excel,2026-04-20
+U123,Ingeniería de Sistemas,8,Básico,es,Data Analyst,Estadística; SQL y Bases de Datos; Análisis de Datos,SQL y Bases de Datos; Python,2026-07-21
+U124,Administración,7,Básico,es+en,Data Analyst,Estadística; SQL y Bases de Datos,Habilidades Blandas,2026-01-25
+U125,Estadística e Informática,5,Básico,es+en,Data Analyst,Excel; Python,Excel; R,2026-08-14
+U126,Estadística e Informática,8,Avanzado,es,Analista Financiero,SQL y Bases de Datos; Tableau y Visualización; Análisis de Datos,Excel,2026-07-03
+U127,Administración,9,Básico,es+en,Project Analyst,Tableau y Visualización; Habilidades Blandas; Gestión de Proyectos,Excel; Habilidades Blandas,2026-02-11
+U128,Administración,6,Avanzado,es,Analista Financiero,Excel; Tableau y Visualización,Excel; Habilidades Blandas,2026-03-20
+U129,Estadística e Informática,10,Intermedio,es,Analista Financiero,Power BI; Estadística,Python; Excel,2026-06-27
+U130,Economía,7,Intermedio,es+en,Data Scientist,Estadística; Excel,Estadística; Excel,2026-01-18
+U131,Estadística e Informática,7,Intermedio,es,Data Analyst,Tableau y Visualización; R; SQL y Bases de Datos,Python,2026-07-20
+U132,Administración,6,Básico,es+en,Marketing Analyst,Tableau y Visualización; Habilidades Blandas; Estadística,Excel; Habilidades Blandas,2026-01-10
+U133,Ingeniería de Sistemas,10,Avanzado,es+en,Data Analyst,Power BI; Python; Análisis de Datos,Python; SQL y Bases de Datos,2026-08-02
+U134,Economía,10,Intermedio,es+en,BI Analyst,Power BI; Habilidades Blandas; Análisis de Datos,Excel; Estadística,2026-02-15
+U135,Ingeniería Industrial,10,Básico,es+en,BI Analyst,Power BI; Tableau y Visualización; Habilidades Blandas,Excel; Estadística; Gestión de Proyectos,2026-03-31
+U136,Economía,5,Intermedio,es,Analista Financiero,Excel; Análisis de Datos,Excel,2026-08-17
+U137,Ingeniería Industrial,8,Básico,es+en,Marketing Analyst,Estadística; Python,Gestión de Proyectos; Estadística,2026-05-07
+U138,Estadística e Informática,7,Básico,es,Data Analyst,Análisis de Datos; Excel,Excel,2026-04-11
+U139,Estadística e Informática,10,Avanzado,es+en,Data Scientist,Estadística; Python,Python; Estadística,2026-08-30
+U140,Administración,8,Intermedio,es+en,Marketing Analyst,Python; Habilidades Blandas,Excel; Habilidades Blandas,2026-01-29
+U141,Estadística e Informática,5,Básico,es+en,Data Analyst,Tableau y Visualización; Excel; Power BI,Python; Excel; Estadística,2026-07-12
+U142,Economía,6,Básico,es+en,Project Analyst,Habilidades Blandas; Gestión de Proyectos,Excel; Estadística,2026-06-02
+U143,Ingeniería de Sistemas,5,Básico,es+en,Data Scientist,Machine Learning; Estadística,SQL y Bases de Datos; Python,2026-07-29
+U144,Economía,7,Básico,es,BI Analyst,Power BI; Análisis de Datos; Tableau y Visualización,Estadística; Excel,2026-03-18
+U145,Estadística e Informática,5,Básico,es+en,Project Analyst,Habilidades Blandas; Power BI; SQL y Bases de Datos,Python; Excel; Estadística,2026-02-17
+U146,Ingeniería Industrial,7,Intermedio,es,Data Scientist,Machine Learning; R; Análisis de Datos,Gestión de Proyectos,2026-01-28
+U147,Estadística e Informática,5,Intermedio,es,BI Analyst,Power BI; SQL y Bases de Datos,Excel; R; Estadística,2026-06-13
+U148,Economía,9,Básico,es+en,Analista Financiero,Excel; SQL y Bases de Datos,Excel; Estadística,2026-05-07
+U149,Ingeniería Industrial,10,Intermedio,es+en,Project Analyst,Análisis de Datos; Excel,Estadística; Gestión de Proyectos; Excel,2026-06-04
+U150,Estadística e Informática,8,Avanzado,es+en,BI Analyst,SQL y Bases de Datos; Análisis de Datos; Tableau y Visualización,R; Excel; Python,2026-02-16
