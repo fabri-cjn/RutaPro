@@ -1,0 +1,26 @@
+{
+  "criterio": "NDCG@10 en validación (partición temporal por usuario), regla de parsimonia con tolerancia 0.01",
+  "Contenido (TF-IDF)": {
+    "ngram": [
+      1,
+      1
+    ],
+    "alpha_perfil": 0.9,
+    "usar_vistas": false
+  },
+  "KNN usuario": {
+    "k": 20,
+    "variante": "usuario",
+    "usar_vistas": false
+  },
+  "KNN ítem": {
+    "k": 5,
+    "variante": "item",
+    "usar_vistas": true
+  },
+  "LightFM híbrido": {
+    "no_components": 64,
+    "loss": "warp",
+    "epochs": 200
+  }
+}
