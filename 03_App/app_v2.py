@@ -60,7 +60,7 @@ def poner_fondo(nombre):
     </style>
     """, unsafe_allow_html=True)
 
-poner_fondo("fondo.jpg")
+poner_fondo("fondo_dibujo.jpg")
 
 # ---------------------------------------------------------------------------
 # Carga de datos y modelo
