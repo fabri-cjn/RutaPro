@@ -54,7 +54,8 @@ def poner_fondo(nombre):
     st.markdown(f"""
     <style>
     [data-testid="stAppViewContainer"] {{
-        background: url("data:image/jpeg;base64,{img}") right bottom / cover no-repeat fixed;
+        background: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.4)),
+               url("data:image/jpeg;base64,{img}") right bottom / cover no-repeat fixed;
     }}
     [data-testid="stHeader"] {{ background: rgba(0,0,0,0); }}
     </style>
