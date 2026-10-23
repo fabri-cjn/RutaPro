@@ -1,0 +1,12 @@
+,valor
+estudiantes,160495
+cursos,3781
+inscripciones,575557
+inscripciones por estudiante (mediana),1.0
+inscripciones por estudiante (media),3.5861366397707095
+estudiantes con >= 3 inscripciones (%),21.21623726595844
+Gini de inscripciones por curso,0.7037815320487448
+% de inscripciones en el 20 % de cursos más populares,72.81433463583971
+fecha mínima,2019-05-14
+fecha máxima,2020-12-08
+disciplinas distintas,71

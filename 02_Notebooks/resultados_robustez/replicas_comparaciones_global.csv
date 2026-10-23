@@ -1,0 +1,19 @@
+comparacion,escenario,dif. media,sd entre réplicas,réplicas donde gana (de 10),réplicas con p < 0.05 a favor,réplicas con p < 0.05 en contra
+LightFM + reglas − Pop. por segmento + reglas,E0 Base (reglas v1),0.0074676570463379725,0.012867073557353137,8.0,0.0,0.0
+LightFM + reglas − Pop. por segmento + reglas,E1 Perfil débil,-0.007738130769396201,0.022099624844354553,3.0,0.0,1.0
+LightFM + reglas − Pop. por segmento + reglas,E2 Popularidad dominante,-0.003987034787008218,0.017467274432756117,1.0,1.0,1.0
+LightFM + reglas − Pop. por segmento + reglas,E3 Ruta secuencial,0.0003277672287295031,0.0194130329520029,5.0,0.0,1.0
+LightFM + reglas − Pop. por segmento + reglas,E4 Gustos latentes,0.04799288193387487,0.014323132559250735,10.0,8.0,0.0
+LightFM + reglas − Pop. por segmento + reglas,E5 Embudo MOOC bajo,0.00044308817316100356,0.02243881208320855,4.0,0.0,0.0
+LightFM + reglas − Popularidad,E0 Base (reglas v1),0.05083662975162151,0.01685411414344496,10.0,8.0,0.0
+LightFM + reglas − Popularidad,E1 Perfil débil,0.005894203732568377,0.010693617306248373,6.0,0.0,0.0
+LightFM + reglas − Popularidad,E2 Popularidad dominante,0.010414058752726475,0.015305024428950998,7.0,2.0,0.0
+LightFM + reglas − Popularidad,E3 Ruta secuencial,0.021299489766281453,0.01164779687011552,9.0,5.0,0.0
+LightFM + reglas − Popularidad,E4 Gustos latentes,0.05192426179575038,0.01879534643841223,10.0,8.0,0.0
+LightFM + reglas − Popularidad,E5 Embudo MOOC bajo,0.034708645574039666,0.013480768007603902,10.0,3.0,0.0
+Pop. por segmento + reglas − Popularidad,E0 Base (reglas v1),0.043368972705283546,0.021651772461447488,10.0,7.0,0.0
+Pop. por segmento + reglas − Popularidad,E1 Perfil débil,0.01363233450196458,0.020629337837127264,7.0,2.0,0.0
+Pop. por segmento + reglas − Popularidad,E2 Popularidad dominante,0.014401093539734691,0.017443815751726488,8.0,2.0,0.0
+Pop. por segmento + reglas − Popularidad,E3 Ruta secuencial,0.02097172253755195,0.015503645368662146,9.0,3.0,0.0
+Pop. por segmento + reglas − Popularidad,E4 Gustos latentes,0.003931379861875512,0.01563550188008458,6.0,0.0,0.0
+Pop. por segmento + reglas − Popularidad,E5 Embudo MOOC bajo,0.034265557400878666,0.01686070470832385,10.0,3.0,0.0

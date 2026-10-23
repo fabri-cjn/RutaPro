@@ -1,0 +1,68 @@
+{
+ "E0 Base (reglas v1)": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.6,
+  "knn_u_k": 50,
+  "knn_i_k": 50,
+  "lfm": {
+   "no_components": 32,
+   "loss": "warp",
+   "epochs": 100
+  }
+ },
+ "E1 Perfil débil": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.0,
+  "knn_u_k": 50,
+  "knn_i_k": 50,
+  "lfm": {
+   "no_components": 64,
+   "loss": "warp",
+   "epochs": 50
+  }
+ },
+ "E2 Popularidad dominante": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.6,
+  "knn_u_k": 50,
+  "knn_i_k": 50,
+  "lfm": {
+   "no_components": 32,
+   "loss": "warp",
+   "epochs": 50
+  }
+ },
+ "E3 Ruta secuencial": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.3,
+  "knn_u_k": 50,
+  "knn_i_k": 50,
+  "lfm": {
+   "no_components": 32,
+   "loss": "warp",
+   "epochs": 50
+  }
+ },
+ "E4 Gustos latentes": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.0,
+  "knn_u_k": 50,
+  "knn_i_k": 20,
+  "lfm": {
+   "no_components": 64,
+   "loss": "warp",
+   "epochs": 200
+  }
+ },
+ "E5 Embudo MOOC bajo": {
+  "seg_m": 0.0,
+  "cont_alpha": 0.0,
+  "knn_u_k": 50,
+  "knn_i_k": 20,
+  "lfm": {
+   "no_components": 32,
+   "loss": "warp",
+   "epochs": 50
+  }
+ }
+}

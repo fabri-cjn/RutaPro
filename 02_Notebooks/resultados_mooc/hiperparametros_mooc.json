@@ -1,0 +1,52 @@
+{
+ "segmento": [
+  "genero"
+ ],
+ "tolerancia_relativa": 0.05,
+ "seg_m": 0.0,
+ "cont_alpha": 0.0,
+ "knn_u_k": 50,
+ "knn_i_k": 20,
+ "lfm": {
+  "no_components": 64,
+  "loss": "warp",
+  "epochs": 50
+ },
+ "blend": {
+  "variante": "item",
+  "w": 0.5,
+  "k_rrf": 20
+ },
+ "blend_rejilla": [
+  {
+   "variante": "usuario",
+   "w": 0.25,
+   "ndcg": 0.06415614816576004
+  },
+  {
+   "variante": "usuario",
+   "w": 0.5,
+   "ndcg": 0.06275584917139768
+  },
+  {
+   "variante": "usuario",
+   "w": 0.75,
+   "ndcg": 0.061457340798679816
+  },
+  {
+   "variante": "item",
+   "w": 0.25,
+   "ndcg": 0.06654676190038135
+  },
+  {
+   "variante": "item",
+   "w": 0.5,
+   "ndcg": 0.07164213298154619
+  },
+  {
+   "variante": "item",
+   "w": 0.75,
+   "ndcg": 0.06529727617879727
+  }
+ ]
+}

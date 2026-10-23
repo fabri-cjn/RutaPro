@@ -1,0 +1,361 @@
+escenario,esquema,replica,comparacion,dif,p
+E0 Base (reglas v1),global,0,LightFM + reglas − Pop. por segmento + reglas,0.01652106231615458,0.31443782000134535
+E0 Base (reglas v1),global,0,LightFM + reglas − Popularidad,0.029359713038338335,0.2914670304529401
+E0 Base (reglas v1),global,0,Pop. por segmento + reglas − Popularidad,0.012838650722183756,0.584464435468707
+E0 Base (reglas v1),usuario,0,LightFM + reglas − Pop. por segmento + reglas,0.0035178500887712467,0.6750186175953581
+E0 Base (reglas v1),usuario,0,LightFM + reglas − Popularidad,0.040567393141306064,0.0025999345211974666
+E0 Base (reglas v1),usuario,0,Pop. por segmento + reglas − Popularidad,0.03704954305253481,0.002489042209692036
+E0 Base (reglas v1),global,1,LightFM + reglas − Pop. por segmento + reglas,0.002939269704339651,0.6653356441197391
+E0 Base (reglas v1),global,1,LightFM + reglas − Popularidad,0.021635567862570728,0.11994920209131682
+E0 Base (reglas v1),global,1,Pop. por segmento + reglas − Popularidad,0.018696298158231074,0.3729400251226427
+E0 Base (reglas v1),usuario,1,LightFM + reglas − Pop. por segmento + reglas,-0.01688502201219258,0.21346706808995752
+E0 Base (reglas v1),usuario,1,LightFM + reglas − Popularidad,0.03511202009040449,0.0008539916557020209
+E0 Base (reglas v1),usuario,1,Pop. por segmento + reglas − Popularidad,0.05199704210259707,7.428857202556533e-05
+E0 Base (reglas v1),global,2,LightFM + reglas − Pop. por segmento + reglas,0.016249904461184603,0.14061029334782071
+E0 Base (reglas v1),global,2,LightFM + reglas − Popularidad,0.04634354162786898,0.04482520096363068
+E0 Base (reglas v1),global,2,Pop. por segmento + reglas − Popularidad,0.030093637166684378,0.15746153162824217
+E0 Base (reglas v1),usuario,2,LightFM + reglas − Pop. por segmento + reglas,-0.00985530184778694,0.42715096070481173
+E0 Base (reglas v1),usuario,2,LightFM + reglas − Popularidad,0.03553209176715165,0.015658242462803132
+E0 Base (reglas v1),usuario,2,Pop. por segmento + reglas − Popularidad,0.04538739361493859,0.0035031632214740887
+E0 Base (reglas v1),global,3,LightFM + reglas − Pop. por segmento + reglas,0.014212304104330043,0.2500876622224659
+E0 Base (reglas v1),global,3,LightFM + reglas − Popularidad,0.05051875425630656,0.0014690914035649964
+E0 Base (reglas v1),global,3,Pop. por segmento + reglas − Popularidad,0.03630645015197652,0.04286958884982029
+E0 Base (reglas v1),usuario,3,LightFM + reglas − Pop. por segmento + reglas,0.02656639300299868,0.024434191223519554
+E0 Base (reglas v1),usuario,3,LightFM + reglas − Popularidad,0.06231953510106488,1.6129899971816513e-05
+E0 Base (reglas v1),usuario,3,Pop. por segmento + reglas − Popularidad,0.03575314209806619,0.006792825816366725
+E0 Base (reglas v1),global,4,LightFM + reglas − Pop. por segmento + reglas,0.014791080837435263,0.2702285127874914
+E0 Base (reglas v1),global,4,LightFM + reglas − Popularidad,0.06663451798877969,4.970685503549582e-05
+E0 Base (reglas v1),global,4,Pop. por segmento + reglas − Popularidad,0.05184343715134443,0.0005296283058281992
+E0 Base (reglas v1),usuario,4,LightFM + reglas − Pop. por segmento + reglas,0.004746330505701992,0.9734716391532082
+E0 Base (reglas v1),usuario,4,LightFM + reglas − Popularidad,0.05534395541048754,2.938838431755821e-05
+E0 Base (reglas v1),usuario,4,Pop. por segmento + reglas − Popularidad,0.05059762490478556,1.5712091218511953e-05
+E0 Base (reglas v1),global,5,LightFM + reglas − Pop. por segmento + reglas,-0.008774930726237432,0.4250301151186796
+E0 Base (reglas v1),global,5,LightFM + reglas − Popularidad,0.04163582990151462,0.03940786076427304
+E0 Base (reglas v1),global,5,Pop. por segmento + reglas − Popularidad,0.05041076062775206,0.005692471317594921
+E0 Base (reglas v1),usuario,5,LightFM + reglas − Pop. por segmento + reglas,0.01001282570840751,0.34103961348443146
+E0 Base (reglas v1),usuario,5,LightFM + reglas − Popularidad,0.058373860583951914,2.722896888573372e-05
+E0 Base (reglas v1),usuario,5,Pop. por segmento + reglas − Popularidad,0.04836103487554442,0.00020228474271321927
+E0 Base (reglas v1),global,6,LightFM + reglas − Pop. por segmento + reglas,0.02131139990833094,0.2329242229050107
+E0 Base (reglas v1),global,6,LightFM + reglas − Popularidad,0.05251945392306386,0.0015027287602603352
+E0 Base (reglas v1),global,6,Pop. por segmento + reglas − Popularidad,0.03120805401473293,0.029795023246721387
+E0 Base (reglas v1),usuario,6,LightFM + reglas − Pop. por segmento + reglas,0.01723696561538553,0.06758617897346819
+E0 Base (reglas v1),usuario,6,LightFM + reglas − Popularidad,0.07764994372319813,5.880155794160134e-10
+E0 Base (reglas v1),usuario,6,Pop. por segmento + reglas − Popularidad,0.0604129781078126,6.625981974933286e-06
+E0 Base (reglas v1),global,7,LightFM + reglas − Pop. por segmento + reglas,0.012970071623332718,0.3382248034246391
+E0 Base (reglas v1),global,7,LightFM + reglas − Popularidad,0.06360713416288961,0.005510912266294931
+E0 Base (reglas v1),global,7,Pop. por segmento + reglas − Popularidad,0.0506370625395569,0.03135654590454434
+E0 Base (reglas v1),usuario,7,LightFM + reglas − Pop. por segmento + reglas,0.007407522478017516,0.5272880687794892
+E0 Base (reglas v1),usuario,7,LightFM + reglas − Popularidad,0.06087887960669761,4.14067352585402e-05
+E0 Base (reglas v1),usuario,7,Pop. por segmento + reglas − Popularidad,0.05347135712868009,6.129647064646701e-05
+E0 Base (reglas v1),global,8,LightFM + reglas − Pop. por segmento + reglas,-0.01919772773853786,0.18995026395364423
+E0 Base (reglas v1),global,8,LightFM + reglas − Popularidad,0.06002003716884506,0.0015867032511062364
+E0 Base (reglas v1),global,8,Pop. por segmento + reglas − Popularidad,0.07921776490738293,1.014317572265541e-05
+E0 Base (reglas v1),usuario,8,LightFM + reglas − Pop. por segmento + reglas,0.00015485749968974067,0.8740982666304881
+E0 Base (reglas v1),usuario,8,LightFM + reglas − Popularidad,0.05286600610412014,0.0001634755086000324
+E0 Base (reglas v1),usuario,8,Pop. por segmento + reglas − Popularidad,0.05271114860443041,0.0001975513916098119
+E0 Base (reglas v1),global,9,LightFM + reglas − Pop. por segmento + reglas,0.003654135973047203,0.6851946483989514
+E0 Base (reglas v1),global,9,LightFM + reglas − Popularidad,0.0760917475860377,3.9253035682192815e-05
+E0 Base (reglas v1),global,9,Pop. por segmento + reglas − Popularidad,0.0724376116129905,5.928669896521601e-05
+E0 Base (reglas v1),usuario,9,LightFM + reglas − Pop. por segmento + reglas,0.00261532145275158,0.7892533707563447
+E0 Base (reglas v1),usuario,9,LightFM + reglas − Popularidad,0.061231032769495514,7.341091939027909e-06
+E0 Base (reglas v1),usuario,9,Pop. por segmento + reglas − Popularidad,0.05861571131674394,8.484186053486522e-05
+E1 Perfil débil,global,0,LightFM + reglas − Pop. por segmento + reglas,-0.017427468951222512,0.15153426313706136
+E1 Perfil débil,global,0,LightFM + reglas − Popularidad,0.018148754438961905,0.11686331236571232
+E1 Perfil débil,global,0,Pop. por segmento + reglas − Popularidad,0.03557622339018441,0.021312680794397545
+E1 Perfil débil,usuario,0,LightFM + reglas − Pop. por segmento + reglas,-0.01680180612722182,0.0798000083091046
+E1 Perfil débil,usuario,0,LightFM + reglas − Popularidad,0.01101170178281742,0.4063339805417011
+E1 Perfil débil,usuario,0,Pop. por segmento + reglas − Popularidad,0.027813507910039243,0.008537243175583483
+E1 Perfil débil,global,1,LightFM + reglas − Pop. por segmento + reglas,-0.030231664423807262,0.1400373376736094
+E1 Perfil débil,global,1,LightFM + reglas − Popularidad,-0.0035184723676530624,0.6488843580358254
+E1 Perfil débil,global,1,Pop. por segmento + reglas − Popularidad,0.026713192056154203,0.15353174987885815
+E1 Perfil débil,usuario,1,LightFM + reglas − Pop. por segmento + reglas,-0.00775785391722225,0.34325087156681
+E1 Perfil débil,usuario,1,LightFM + reglas − Popularidad,0.006264100803444051,0.7736700030350828
+E1 Perfil débil,usuario,1,Pop. por segmento + reglas − Popularidad,0.0140219547206663,0.43981137250460645
+E1 Perfil débil,global,2,LightFM + reglas − Pop. por segmento + reglas,-0.021900787204946842,0.183952220821467
+E1 Perfil débil,global,2,LightFM + reglas − Popularidad,-0.0019715554361561852,0.8537768024224129
+E1 Perfil débil,global,2,Pop. por segmento + reglas − Popularidad,0.019929231768790655,0.28609038417759824
+E1 Perfil débil,usuario,2,LightFM + reglas − Pop. por segmento + reglas,0.0007775741526513247,0.9223494358525766
+E1 Perfil débil,usuario,2,LightFM + reglas − Popularidad,0.00982033291084189,0.42881940340254465
+E1 Perfil débil,usuario,2,Pop. por segmento + reglas − Popularidad,0.009042758758190564,0.6842238883788656
+E1 Perfil débil,global,3,LightFM + reglas − Pop. por segmento + reglas,-0.017195200617424296,0.3901648483494299
+E1 Perfil débil,global,3,LightFM + reglas − Popularidad,-0.0018098632728413475,0.9837946173904056
+E1 Perfil débil,global,3,Pop. por segmento + reglas − Popularidad,0.015385337344582955,0.2808165989390772
+E1 Perfil débil,usuario,3,LightFM + reglas − Pop. por segmento + reglas,0.0068086863883980945,0.752386937036529
+E1 Perfil débil,usuario,3,LightFM + reglas − Popularidad,0.015195294399140672,0.1587555798110828
+E1 Perfil débil,usuario,3,Pop. por segmento + reglas − Popularidad,0.00838660801074258,0.3291818690912648
+E1 Perfil débil,global,4,LightFM + reglas − Pop. por segmento + reglas,0.0217703515859469,0.34576149616505325
+E1 Perfil débil,global,4,LightFM + reglas − Popularidad,0.020858288542410466,0.2786080782119872
+E1 Perfil débil,global,4,Pop. por segmento + reglas − Popularidad,-0.0009120630435364318,0.9527396056884885
+E1 Perfil débil,usuario,4,LightFM + reglas − Pop. por segmento + reglas,0.015826599013228755,0.27198163185068136
+E1 Perfil débil,usuario,4,LightFM + reglas − Popularidad,0.0050200560741430296,0.7501952125665018
+E1 Perfil débil,usuario,4,Pop. por segmento + reglas − Popularidad,-0.010806542939085723,0.2638272110722215
+E1 Perfil débil,global,5,LightFM + reglas − Pop. por segmento + reglas,-0.008380440088911577,0.5100465260349669
+E1 Perfil débil,global,5,LightFM + reglas − Popularidad,0.0006856092061278253,0.8352063141599211
+E1 Perfil débil,global,5,Pop. por segmento + reglas − Popularidad,0.009066049295039406,0.47910704250556746
+E1 Perfil débil,usuario,5,LightFM + reglas − Pop. por segmento + reglas,-0.00566573381033291,0.7299533323854577
+E1 Perfil débil,usuario,5,LightFM + reglas − Popularidad,0.01588008141009491,0.16740224347302113
+E1 Perfil débil,usuario,5,Pop. por segmento + reglas − Popularidad,0.021545815220427825,0.06137887325954741
+E1 Perfil débil,global,6,LightFM + reglas − Pop. por segmento + reglas,0.02238721514758483,0.09997109187967985
+E1 Perfil débil,global,6,LightFM + reglas − Popularidad,0.017526066204929174,0.33140344620319995
+E1 Perfil débil,global,6,Pop. por segmento + reglas − Popularidad,-0.004861148942655653,0.48449567423217565
+E1 Perfil débil,usuario,6,LightFM + reglas − Pop. por segmento + reglas,0.00986975063959343,0.3004090287538398
+E1 Perfil débil,usuario,6,LightFM + reglas − Popularidad,0.0065645655393024,0.5191297551799455
+E1 Perfil débil,usuario,6,Pop. por segmento + reglas − Popularidad,-0.0033051851002910294,0.9305796026186787
+E1 Perfil débil,global,7,LightFM + reglas − Pop. por segmento + reglas,-0.0361563731329723,0.006885667213648194
+E1 Perfil débil,global,7,LightFM + reglas − Popularidad,0.014525024818028389,0.3026245893551134
+E1 Perfil débil,global,7,Pop. por segmento + reglas − Popularidad,0.05068139795100069,0.0006144445362585477
+E1 Perfil débil,usuario,7,LightFM + reglas − Pop. por segmento + reglas,-0.03836308047489836,0.00044320531108214866
+E1 Perfil débil,usuario,7,LightFM + reglas − Popularidad,-0.017112230052716514,0.0469258010866006
+E1 Perfil débil,usuario,7,Pop. por segmento + reglas − Popularidad,0.021250850422181843,0.017215581958331817
+E1 Perfil débil,global,8,LightFM + reglas − Pop. por segmento + reglas,-0.01246022339088427,0.5339666733248029
+E1 Perfil débil,global,8,LightFM + reglas − Popularidad,-0.008176093035607616,0.8481956669846947
+E1 Perfil débil,global,8,Pop. por segmento + reglas − Popularidad,0.004284130355276655,0.6359201099670997
+E1 Perfil débil,usuario,8,LightFM + reglas − Pop. por segmento + reglas,-0.021605545199807365,0.09658245695135788
+E1 Perfil débil,usuario,8,LightFM + reglas − Popularidad,0.010569942640107946,0.15245194209306254
+E1 Perfil débil,usuario,8,Pop. por segmento + reglas − Popularidad,0.03217548783991531,0.0019759766294385342
+E1 Perfil débil,global,9,LightFM + reglas − Pop. por segmento + reglas,0.02221328338267533,0.16126677152109603
+E1 Perfil débil,global,9,LightFM + reglas − Popularidad,0.002674278227484218,0.9793464471390539
+E1 Perfil débil,global,9,Pop. por segmento + reglas − Popularidad,-0.019539005155191108,0.27545493525493014
+E1 Perfil débil,usuario,9,LightFM + reglas − Pop. por segmento + reglas,0.0028311508879317686,0.7704067023709972
+E1 Perfil débil,usuario,9,LightFM + reglas − Popularidad,-0.003422393304472927,0.9652592941830175
+E1 Perfil débil,usuario,9,Pop. por segmento + reglas − Popularidad,-0.006253544192404695,0.7805270125684973
+E2 Popularidad dominante,global,0,LightFM + reglas − Pop. por segmento + reglas,-0.0011126908106577624,0.8425528476346991
+E2 Popularidad dominante,global,0,LightFM + reglas − Popularidad,-0.006494435642572655,0.34772676138521363
+E2 Popularidad dominante,global,0,Pop. por segmento + reglas − Popularidad,-0.005381744831914892,0.4621633298138693
+E2 Popularidad dominante,usuario,0,LightFM + reglas − Pop. por segmento + reglas,0.0035790936958948333,0.8580756413223969
+E2 Popularidad dominante,usuario,0,LightFM + reglas − Popularidad,0.012436660220660678,0.4072174271386525
+E2 Popularidad dominante,usuario,0,Pop. por segmento + reglas − Popularidad,0.008857566524765846,0.7935054578543437
+E2 Popularidad dominante,global,1,LightFM + reglas − Pop. por segmento + reglas,-0.03157181914610102,0.0372839488588247
+E2 Popularidad dominante,global,1,LightFM + reglas − Popularidad,0.0002670100231120862,0.9266497835375564
+E2 Popularidad dominante,global,1,Pop. por segmento + reglas − Popularidad,0.03183882916921311,0.029402507122003766
+E2 Popularidad dominante,usuario,1,LightFM + reglas − Pop. por segmento + reglas,-0.008850484392934482,0.43665512192411704
+E2 Popularidad dominante,usuario,1,LightFM + reglas − Popularidad,0.0029164758379527016,0.92709570015705
+E2 Popularidad dominante,usuario,1,Pop. por segmento + reglas − Popularidad,0.011766960230887186,0.34385685357645723
+E2 Popularidad dominante,global,2,LightFM + reglas − Pop. por segmento + reglas,-0.0027172594433952386,0.9545322970065591
+E2 Popularidad dominante,global,2,LightFM + reglas − Popularidad,0.0016061093067316476,0.8955962091083316
+E2 Popularidad dominante,global,2,Pop. por segmento + reglas − Popularidad,0.004323368750126882,0.9251141336107801
+E2 Popularidad dominante,usuario,2,LightFM + reglas − Pop. por segmento + reglas,-0.015654172728706943,0.08755417004729898
+E2 Popularidad dominante,usuario,2,LightFM + reglas − Popularidad,0.011488955861131743,0.23696436622571182
+E2 Popularidad dominante,usuario,2,Pop. por segmento + reglas − Popularidad,0.027143128589838687,0.021929607499060644
+E2 Popularidad dominante,global,3,LightFM + reglas − Pop. por segmento + reglas,0.03871012223923479,0.011150033798361922
+E2 Popularidad dominante,global,3,LightFM + reglas − Popularidad,0.031129377624385123,0.019254056533110662
+E2 Popularidad dominante,global,3,Pop. por segmento + reglas − Popularidad,-0.0075807446148496655,0.5684455886974251
+E2 Popularidad dominante,usuario,3,LightFM + reglas − Pop. por segmento + reglas,0.007029771709212044,0.6653666697669804
+E2 Popularidad dominante,usuario,3,LightFM + reglas − Popularidad,0.03271158227963748,0.0002223898211693126
+E2 Popularidad dominante,usuario,3,Pop. por segmento + reglas − Popularidad,0.025681810570425446,0.01153034603231903
+E2 Popularidad dominante,global,4,LightFM + reglas − Pop. por segmento + reglas,-0.011713121203613258,0.21578118565865656
+E2 Popularidad dominante,global,4,LightFM + reglas − Popularidad,-0.000879087858320284,0.6051024275170491
+E2 Popularidad dominante,global,4,Pop. por segmento + reglas − Popularidad,0.01083403334529298,0.3667451562373254
+E2 Popularidad dominante,usuario,4,LightFM + reglas − Pop. por segmento + reglas,-0.01620012518000292,0.11749130066179793
+E2 Popularidad dominante,usuario,4,LightFM + reglas − Popularidad,0.006657004158960622,0.9069401920481825
+E2 Popularidad dominante,usuario,4,Pop. por segmento + reglas − Popularidad,0.022857129338963545,0.02752928625825407
+E2 Popularidad dominante,global,5,LightFM + reglas − Pop. por segmento + reglas,-0.0015639661424325512,0.4788303851899396
+E2 Popularidad dominante,global,5,LightFM + reglas − Popularidad,0.014855536655611764,0.27384974253330896
+E2 Popularidad dominante,global,5,Pop. por segmento + reglas − Popularidad,0.016419502798044314,0.12147251287804811
+E2 Popularidad dominante,usuario,5,LightFM + reglas − Pop. por segmento + reglas,0.005572286697424125,0.9383120974111414
+E2 Popularidad dominante,usuario,5,LightFM + reglas − Popularidad,0.009017526941690996,0.2939227053166181
+E2 Popularidad dominante,usuario,5,Pop. por segmento + reglas − Popularidad,0.0034452402442668732,0.6957314491702924
+E2 Popularidad dominante,global,6,LightFM + reglas − Pop. por segmento + reglas,-0.012458549350970259,0.8756148576474205
+E2 Popularidad dominante,global,6,LightFM + reglas − Popularidad,0.017084187930022664,0.17283987389614708
+E2 Popularidad dominante,global,6,Pop. por segmento + reglas − Popularidad,0.029542737280992916,0.0651134880870256
+E2 Popularidad dominante,usuario,6,LightFM + reglas − Pop. por segmento + reglas,-0.0041984969917051185,0.6774548178259969
+E2 Popularidad dominante,usuario,6,LightFM + reglas − Popularidad,0.02164031227401394,0.04596955939523201
+E2 Popularidad dominante,usuario,6,Pop. por segmento + reglas − Popularidad,0.02583880926571906,0.011487267625094858
+E2 Popularidad dominante,global,7,LightFM + reglas − Pop. por segmento + reglas,-0.007591265989827062,0.48115852610386156
+E2 Popularidad dominante,global,7,LightFM + reglas − Popularidad,0.03883346194088426,0.0009531968702981262
+E2 Popularidad dominante,global,7,Pop. por segmento + reglas − Popularidad,0.04642472793071131,0.0004915780480241952
+E2 Popularidad dominante,usuario,7,LightFM + reglas − Pop. por segmento + reglas,-0.00015978278179034884,0.9830471328576981
+E2 Popularidad dominante,usuario,7,LightFM + reglas − Popularidad,0.0157606839304783,0.10586755911408777
+E2 Popularidad dominante,usuario,7,Pop. por segmento + reglas − Popularidad,0.015920466712268648,0.0935874034915478
+E2 Popularidad dominante,global,8,LightFM + reglas − Pop. por segmento + reglas,-0.00503927757450884,0.8902856201736312
+E2 Popularidad dominante,global,8,LightFM + reglas − Popularidad,-0.004116548123265172,0.6850043948971094
+E2 Popularidad dominante,global,8,Pop. por segmento + reglas − Popularidad,0.0009227294512436685,0.9837829351335049
+E2 Popularidad dominante,usuario,8,LightFM + reglas − Pop. por segmento + reglas,0.005696432048728544,0.5261056815059948
+E2 Popularidad dominante,usuario,8,LightFM + reglas − Popularidad,0.02232729242437081,0.02656216777181936
+E2 Popularidad dominante,usuario,8,Pop. por segmento + reglas − Popularidad,0.016630860375642265,0.14476125871320666
+E2 Popularidad dominante,global,9,LightFM + reglas − Pop. por segmento + reglas,-0.004812520447810985,0.858636489991901
+E2 Popularidad dominante,global,9,LightFM + reglas − Popularidad,0.011854975670675328,0.4139814957471314
+E2 Popularidad dominante,global,9,Pop. por segmento + reglas − Popularidad,0.016667496118486315,0.31667272101054866
+E2 Popularidad dominante,usuario,9,LightFM + reglas − Pop. por segmento + reglas,-0.004415570398733115,0.7313582003317985
+E2 Popularidad dominante,usuario,9,LightFM + reglas − Popularidad,0.012557275311656391,0.11273050763124219
+E2 Popularidad dominante,usuario,9,Pop. por segmento + reglas − Popularidad,0.016972845710389504,0.16070895200535895
+E3 Ruta secuencial,global,0,LightFM + reglas − Pop. por segmento + reglas,0.010226229379903747,0.8911795666215333
+E3 Ruta secuencial,global,0,LightFM + reglas − Popularidad,0.01650857268811981,0.09586305238905654
+E3 Ruta secuencial,global,0,Pop. por segmento + reglas − Popularidad,0.006282343308216062,0.4658666642170919
+E3 Ruta secuencial,usuario,0,LightFM + reglas − Pop. por segmento + reglas,0.003445811767916895,0.8268960599506071
+E3 Ruta secuencial,usuario,0,LightFM + reglas − Popularidad,0.021408855727488848,0.0035854466538355035
+E3 Ruta secuencial,usuario,0,Pop. por segmento + reglas − Popularidad,0.01796304395957195,0.1429535951892558
+E3 Ruta secuencial,global,1,LightFM + reglas − Pop. por segmento + reglas,0.016126550185582254,0.33728072982220547
+E3 Ruta secuencial,global,1,LightFM + reglas − Popularidad,0.030875909406238477,0.0026578371767924562
+E3 Ruta secuencial,global,1,Pop. por segmento + reglas − Popularidad,0.014749359220656216,0.23999267069314
+E3 Ruta secuencial,usuario,1,LightFM + reglas − Pop. por segmento + reglas,0.0022830390991502745,0.84655755089356
+E3 Ruta secuencial,usuario,1,LightFM + reglas − Popularidad,0.034057766912586454,0.00029076398183730095
+E3 Ruta secuencial,usuario,1,Pop. por segmento + reglas − Popularidad,0.031774727813436175,0.021378389180953514
+E3 Ruta secuencial,global,2,LightFM + reglas − Pop. por segmento + reglas,-0.0013744421868594002,0.9946620937925079
+E3 Ruta secuencial,global,2,LightFM + reglas − Popularidad,0.020908773675734682,0.12479176436288306
+E3 Ruta secuencial,global,2,Pop. por segmento + reglas − Popularidad,0.022283215862594085,0.09225823833593348
+E3 Ruta secuencial,usuario,2,LightFM + reglas − Pop. por segmento + reglas,0.002336237134977155,0.9424064941366804
+E3 Ruta secuencial,usuario,2,LightFM + reglas − Popularidad,0.031649486719752956,0.0024518668325715864
+E3 Ruta secuencial,usuario,2,Pop. por segmento + reglas − Popularidad,0.029313249584775804,0.027369882791278978
+E3 Ruta secuencial,global,3,LightFM + reglas − Pop. por segmento + reglas,-0.04266525839960561,0.005615039482210388
+E3 Ruta secuencial,global,3,LightFM + reglas − Popularidad,0.008819476473313744,0.4588233121639854
+E3 Ruta secuencial,global,3,Pop. por segmento + reglas − Popularidad,0.05148473487291935,0.0002790960447799313
+E3 Ruta secuencial,usuario,3,LightFM + reglas − Pop. por segmento + reglas,-0.010167672761010244,0.22616330639450888
+E3 Ruta secuencial,usuario,3,LightFM + reglas − Popularidad,0.02600523674048574,0.0019242933297913744
+E3 Ruta secuencial,usuario,3,Pop. por segmento + reglas − Popularidad,0.03617290950149597,0.0010775059196462
+E3 Ruta secuencial,global,4,LightFM + reglas − Pop. por segmento + reglas,-0.014835063655359235,0.3572680315590018
+E3 Ruta secuencial,global,4,LightFM + reglas − Popularidad,-0.002476458841782561,0.9196893270684916
+E3 Ruta secuencial,global,4,Pop. por segmento + reglas − Popularidad,0.012358604813576675,0.35403060217167925
+E3 Ruta secuencial,usuario,4,LightFM + reglas − Pop. por segmento + reglas,-0.006483505101997082,0.6508122230400823
+E3 Ruta secuencial,usuario,4,LightFM + reglas − Popularidad,0.015397431200800851,0.014510315971071937
+E3 Ruta secuencial,usuario,4,Pop. por segmento + reglas − Popularidad,0.021880936302797936,0.025229486643719292
+E3 Ruta secuencial,global,5,LightFM + reglas − Pop. por segmento + reglas,0.007821762305359744,0.29289589883958567
+E3 Ruta secuencial,global,5,LightFM + reglas − Popularidad,0.03556744627309183,0.0021629924120953005
+E3 Ruta secuencial,global,5,Pop. por segmento + reglas − Popularidad,0.02774568396773209,0.02395145670543392
+E3 Ruta secuencial,usuario,5,LightFM + reglas − Pop. por segmento + reglas,-0.01111534999057332,0.5188495903944846
+E3 Ruta secuencial,usuario,5,LightFM + reglas − Popularidad,0.013763603720146046,0.06546490615792104
+E3 Ruta secuencial,usuario,5,Pop. por segmento + reglas − Popularidad,0.02487895371071936,0.07140290511777618
+E3 Ruta secuencial,global,6,LightFM + reglas − Pop. por segmento + reglas,-0.010647055079889918,0.6015845377357848
+E3 Ruta secuencial,global,6,LightFM + reglas − Popularidad,0.027863539794233803,0.01620782443143603
+E3 Ruta secuencial,global,6,Pop. por segmento + reglas − Popularidad,0.03851059487412372,0.008938030284250772
+E3 Ruta secuencial,usuario,6,LightFM + reglas − Pop. por segmento + reglas,-0.02191875595063027,0.17383255642847262
+E3 Ruta secuencial,usuario,6,LightFM + reglas − Popularidad,0.012822114694227279,0.09697195006236706
+E3 Ruta secuencial,usuario,6,Pop. por segmento + reglas − Popularidad,0.034740870644857556,0.008382355734728304
+E3 Ruta secuencial,global,7,LightFM + reglas − Pop. por segmento + reglas,0.023673316537232085,0.17820495072459996
+E3 Ruta secuencial,global,7,LightFM + reglas − Popularidad,0.021534134700761556,0.021271703548827802
+E3 Ruta secuencial,global,7,Pop. por segmento + reglas − Popularidad,-0.0021391818364705295,0.8316412757489156
+E3 Ruta secuencial,usuario,7,LightFM + reglas − Pop. por segmento + reglas,0.02009739424804583,0.07205340263681562
+E3 Ruta secuencial,usuario,7,LightFM + reglas − Popularidad,0.030951812634230847,0.0006300600485820329
+E3 Ruta secuencial,usuario,7,Pop. por segmento + reglas − Popularidad,0.010854418386185024,0.2581674605312809
+E3 Ruta secuencial,global,8,LightFM + reglas − Pop. por segmento + reglas,0.015818230837954115,0.4537891358807983
+E3 Ruta secuencial,global,8,LightFM + reglas − Popularidad,0.033029344305891196,0.054376167156701995
+E3 Ruta secuencial,global,8,Pop. por segmento + reglas − Popularidad,0.017211113467937078,0.19686675527967734
+E3 Ruta secuencial,usuario,8,LightFM + reglas − Pop. por segmento + reglas,0.010629481021454354,0.440755844840788
+E3 Ruta secuencial,usuario,8,LightFM + reglas − Popularidad,0.0260752154665981,0.009840274328809483
+E3 Ruta secuencial,usuario,8,Pop. por segmento + reglas − Popularidad,0.015445734445143744,0.0907523070882052
+E3 Ruta secuencial,global,9,LightFM + reglas − Pop. por segmento + reglas,-0.0008665976370227521,0.9171542168187792
+E3 Ruta secuencial,global,9,LightFM + reglas − Popularidad,0.020364159187211968,0.008009942329880022
+E3 Ruta secuencial,global,9,Pop. por segmento + reglas − Popularidad,0.02123075682423472,0.11913131627124655
+E3 Ruta secuencial,usuario,9,LightFM + reglas − Pop. por segmento + reglas,0.0064065578476747995,0.7034338453906804
+E3 Ruta secuencial,usuario,9,LightFM + reglas − Popularidad,0.026240416822347627,0.0001377934992831754
+E3 Ruta secuencial,usuario,9,Pop. por segmento + reglas − Popularidad,0.01983385897467283,0.03778544966218833
+E4 Gustos latentes,global,0,LightFM + reglas − Pop. por segmento + reglas,0.04400960860454767,0.024810019110379753
+E4 Gustos latentes,global,0,LightFM + reglas − Popularidad,0.046220562836652435,0.03756704832604102
+E4 Gustos latentes,global,0,Pop. por segmento + reglas − Popularidad,0.002210954232104762,0.778678706985295
+E4 Gustos latentes,usuario,0,LightFM + reglas − Pop. por segmento + reglas,0.041710229000849655,0.002342979645160251
+E4 Gustos latentes,usuario,0,LightFM + reglas − Popularidad,0.054629814547045595,0.00023604238755760675
+E4 Gustos latentes,usuario,0,Pop. por segmento + reglas − Popularidad,0.012919585546195926,0.3797655848595589
+E4 Gustos latentes,global,1,LightFM + reglas − Pop. por segmento + reglas,0.04323108389362703,0.003504947221830702
+E4 Gustos latentes,global,1,LightFM + reglas − Popularidad,0.025851449328546827,0.19925340059238572
+E4 Gustos latentes,global,1,Pop. por segmento + reglas − Popularidad,-0.017379634565080206,0.08136033139583945
+E4 Gustos latentes,usuario,1,LightFM + reglas − Pop. por segmento + reglas,0.044709963440087916,0.0007626672303072896
+E4 Gustos latentes,usuario,1,LightFM + reglas − Popularidad,0.028115795709058162,0.0647933201605243
+E4 Gustos latentes,usuario,1,Pop. por segmento + reglas − Popularidad,-0.016594167731029754,0.07059932333724002
+E4 Gustos latentes,global,2,LightFM + reglas − Pop. por segmento + reglas,0.05282673762205436,0.006932089455787439
+E4 Gustos latentes,global,2,LightFM + reglas − Popularidad,0.03965682355591242,0.02797768342693236
+E4 Gustos latentes,global,2,Pop. por segmento + reglas − Popularidad,-0.013169914066141937,0.14375498242163307
+E4 Gustos latentes,usuario,2,LightFM + reglas − Pop. por segmento + reglas,0.04000828891478182,0.005113769470070656
+E4 Gustos latentes,usuario,2,LightFM + reglas − Popularidad,0.049569442376379884,0.0009499795723334595
+E4 Gustos latentes,usuario,2,Pop. por segmento + reglas − Popularidad,0.009561153461598065,0.2742980171902534
+E4 Gustos latentes,global,3,LightFM + reglas − Pop. por segmento + reglas,0.030473523398301026,0.023941350352038912
+E4 Gustos latentes,global,3,LightFM + reglas − Popularidad,0.05088077504301035,0.006297798139598113
+E4 Gustos latentes,global,3,Pop. por segmento + reglas − Popularidad,0.020407251644709332,0.12424233919185852
+E4 Gustos latentes,usuario,3,LightFM + reglas − Pop. por segmento + reglas,0.014377084378572637,0.28137875864797746
+E4 Gustos latentes,usuario,3,LightFM + reglas − Popularidad,0.0319629784418311,0.022471193670649973
+E4 Gustos latentes,usuario,3,Pop. por segmento + reglas − Popularidad,0.01758589406325847,0.07223545595243167
+E4 Gustos latentes,global,4,LightFM + reglas − Pop. por segmento + reglas,0.031305572871996375,0.14227326335672755
+E4 Gustos latentes,global,4,LightFM + reglas − Popularidad,0.052918310715375734,0.007493284206708385
+E4 Gustos latentes,global,4,Pop. por segmento + reglas − Popularidad,0.021612737843379356,0.12858915901177273
+E4 Gustos latentes,usuario,4,LightFM + reglas − Pop. por segmento + reglas,0.02952651685585456,0.027554605856138923
+E4 Gustos latentes,usuario,4,LightFM + reglas − Popularidad,0.033904104532674194,0.009045952443501142
+E4 Gustos latentes,usuario,4,Pop. por segmento + reglas − Popularidad,0.004377587676819632,0.673266502240456
+E4 Gustos latentes,global,5,LightFM + reglas − Pop. por segmento + reglas,0.05606956679108284,0.005077274947946565
+E4 Gustos latentes,global,5,LightFM + reglas − Popularidad,0.04568301064147478,0.014266702989595379
+E4 Gustos latentes,global,5,Pop. por segmento + reglas − Popularidad,-0.010386556149608069,0.7041766261097238
+E4 Gustos latentes,usuario,5,LightFM + reglas − Pop. por segmento + reglas,0.05082358417084685,0.00013998258994870556
+E4 Gustos latentes,usuario,5,LightFM + reglas − Popularidad,0.04427658160565169,0.0020237787874679766
+E4 Gustos latentes,usuario,5,Pop. por segmento + reglas − Popularidad,-0.006547002565195151,0.568254199960792
+E4 Gustos latentes,global,6,LightFM + reglas − Pop. por segmento + reglas,0.055024447356799254,0.0034014814665797016
+E4 Gustos latentes,global,6,LightFM + reglas − Popularidad,0.0663523901269858,3.2104030328369003e-05
+E4 Gustos latentes,global,6,Pop. por segmento + reglas − Popularidad,0.01132794277018654,0.2776521145070652
+E4 Gustos latentes,usuario,6,LightFM + reglas − Pop. por segmento + reglas,0.06933612543061142,3.8800239903813145e-05
+E4 Gustos latentes,usuario,6,LightFM + reglas − Popularidad,0.07456517610896392,3.0320354399590495e-06
+E4 Gustos latentes,usuario,6,Pop. por segmento + reglas − Popularidad,0.0052290506783525086,0.4569078787953099
+E4 Gustos latentes,global,7,LightFM + reglas − Pop. por segmento + reglas,0.07914401993354533,0.00011858540173297188
+E4 Gustos latentes,global,7,LightFM + reglas − Popularidad,0.09535608050591177,2.5824989929323107e-05
+E4 Gustos latentes,global,7,Pop. por segmento + reglas − Popularidad,0.016212060572366436,0.08037353145559248
+E4 Gustos latentes,usuario,7,LightFM + reglas − Pop. por segmento + reglas,0.026045632322877873,0.07768589553428981
+E4 Gustos latentes,usuario,7,LightFM + reglas − Popularidad,0.04067570132877527,0.0015784770634451966
+E4 Gustos latentes,usuario,7,Pop. por segmento + reglas − Popularidad,0.014630069005897405,0.062437718121487955
+E4 Gustos latentes,global,8,LightFM + reglas − Pop. por segmento + reglas,0.037563812806196493,0.06817320021553117
+E4 Gustos latentes,global,8,LightFM + reglas − Popularidad,0.056900387445580125,0.003427210369729367
+E4 Gustos latentes,global,8,Pop. por segmento + reglas − Popularidad,0.01933657463938363,0.26479954287631335
+E4 Gustos latentes,usuario,8,LightFM + reglas − Pop. por segmento + reglas,0.038395101697172786,0.009581881239803108
+E4 Gustos latentes,usuario,8,LightFM + reglas − Popularidad,0.04777569474271433,0.00028766986850975386
+E4 Gustos latentes,usuario,8,Pop. por segmento + reglas − Popularidad,0.009380593045541544,0.2866248083580828
+E4 Gustos latentes,global,9,LightFM + reglas − Pop. por segmento + reglas,0.05028044606059828,0.010939537891082977
+E4 Gustos latentes,global,9,LightFM + reglas − Popularidad,0.039422827758053565,0.07773939621678949
+E4 Gustos latentes,global,9,Pop. por segmento + reglas − Popularidad,-0.01085761830254472,0.21828062807060233
+E4 Gustos latentes,usuario,9,LightFM + reglas − Pop. por segmento + reglas,0.046506050523415846,0.0003715523149470115
+E4 Gustos latentes,usuario,9,LightFM + reglas − Popularidad,0.04894390268607344,0.00020217184417934336
+E4 Gustos latentes,usuario,9,Pop. por segmento + reglas − Popularidad,0.0024378521626575995,0.5152878447093845
+E5 Embudo MOOC bajo,global,0,LightFM + reglas − Pop. por segmento + reglas,-0.03932971285679281,0.05192099842632219
+E5 Embudo MOOC bajo,global,0,LightFM + reglas − Popularidad,0.025959110767331567,0.1822130967311435
+E5 Embudo MOOC bajo,global,0,Pop. por segmento + reglas − Popularidad,0.06528882362412437,0.005265871424068853
+E5 Embudo MOOC bajo,usuario,0,LightFM + reglas − Pop. por segmento + reglas,-0.00134787741937636,0.7697564726630673
+E5 Embudo MOOC bajo,usuario,0,LightFM + reglas − Popularidad,0.039043188730024894,0.03326147711030363
+E5 Embudo MOOC bajo,usuario,0,Pop. por segmento + reglas − Popularidad,0.04039106614940125,0.038039640473335516
+E5 Embudo MOOC bajo,global,1,LightFM + reglas − Pop. por segmento + reglas,-0.006886703469034562,0.65073826298279
+E5 Embudo MOOC bajo,global,1,LightFM + reglas − Popularidad,0.03458909231690204,0.11086761542727763
+E5 Embudo MOOC bajo,global,1,Pop. por segmento + reglas − Popularidad,0.04147579578593662,0.07554271052373407
+E5 Embudo MOOC bajo,usuario,1,LightFM + reglas − Pop. por segmento + reglas,-0.004057691220442703,0.7323796357682896
+E5 Embudo MOOC bajo,usuario,1,LightFM + reglas − Popularidad,0.029859444809751483,0.14340394240003923
+E5 Embudo MOOC bajo,usuario,1,Pop. por segmento + reglas − Popularidad,0.033917136030194195,0.08713346297935035
+E5 Embudo MOOC bajo,global,2,LightFM + reglas − Pop. por segmento + reglas,0.040780826350056254,0.06381379975969748
+E5 Embudo MOOC bajo,global,2,LightFM + reglas − Popularidad,0.040968053553478635,0.0663075756791424
+E5 Embudo MOOC bajo,global,2,Pop. por segmento + reglas − Popularidad,0.00018722720342237648,0.986487526788159
+E5 Embudo MOOC bajo,usuario,2,LightFM + reglas − Pop. por segmento + reglas,0.0024236282592809645,0.7803912426257443
+E5 Embudo MOOC bajo,usuario,2,LightFM + reglas − Popularidad,0.04278311905578839,0.008487071669446638
+E5 Embudo MOOC bajo,usuario,2,Pop. por segmento + reglas − Popularidad,0.04035949079650741,0.026999413049243574
+E5 Embudo MOOC bajo,global,3,LightFM + reglas − Pop. por segmento + reglas,-0.0012428256321412097,1.0
+E5 Embudo MOOC bajo,global,3,LightFM + reglas − Popularidad,0.03285348399644214,0.14252523172762355
+E5 Embudo MOOC bajo,global,3,Pop. por segmento + reglas − Popularidad,0.03409630962858335,0.1691348023306496
+E5 Embudo MOOC bajo,usuario,3,LightFM + reglas − Pop. por segmento + reglas,0.026108919626965515,0.056132554695207615
+E5 Embudo MOOC bajo,usuario,3,LightFM + reglas − Popularidad,0.039481169703449503,0.03593709956959337
+E5 Embudo MOOC bajo,usuario,3,Pop. por segmento + reglas − Popularidad,0.013372250076483983,0.8886523630955957
+E5 Embudo MOOC bajo,global,4,LightFM + reglas − Pop. por segmento + reglas,-0.014384168904922822,0.6259112717553514
+E5 Embudo MOOC bajo,global,4,LightFM + reglas − Popularidad,0.011387024782885736,0.4276678222340541
+E5 Embudo MOOC bajo,global,4,Pop. por segmento + reglas − Popularidad,0.025771193687808558,0.26037440905396547
+E5 Embudo MOOC bajo,usuario,4,LightFM + reglas − Pop. por segmento + reglas,-0.036045693051103535,0.01710176992229852
+E5 Embudo MOOC bajo,usuario,4,LightFM + reglas − Popularidad,0.02497897104001233,0.03819472110558905
+E5 Embudo MOOC bajo,usuario,4,Pop. por segmento + reglas − Popularidad,0.06102466409111586,0.0012952941391464036
+E5 Embudo MOOC bajo,global,5,LightFM + reglas − Pop. por segmento + reglas,0.025664719515555653,0.19921571659455206
+E5 Embudo MOOC bajo,global,5,LightFM + reglas − Popularidad,0.06036205013755192,0.012648175184663102
+E5 Embudo MOOC bajo,global,5,Pop. por segmento + reglas − Popularidad,0.034697330621996265,0.09392084192305183
+E5 Embudo MOOC bajo,usuario,5,LightFM + reglas − Pop. por segmento + reglas,-0.0007355917056512595,0.9129574212448567
+E5 Embudo MOOC bajo,usuario,5,LightFM + reglas − Popularidad,0.046344536913619505,0.004805159359361792
+E5 Embudo MOOC bajo,usuario,5,Pop. por segmento + reglas − Popularidad,0.04708012861927076,0.007605842843315531
+E5 Embudo MOOC bajo,global,6,LightFM + reglas − Pop. por segmento + reglas,0.014922819224591146,0.4595835430661408
+E5 Embudo MOOC bajo,global,6,LightFM + reglas − Popularidad,0.041079694495608055,0.021276322161417206
+E5 Embudo MOOC bajo,global,6,Pop. por segmento + reglas − Popularidad,0.02615687527101691,0.11068213697891832
+E5 Embudo MOOC bajo,usuario,6,LightFM + reglas − Pop. por segmento + reglas,-0.005626445906493149,0.6555938993595773
+E5 Embudo MOOC bajo,usuario,6,LightFM + reglas − Popularidad,0.041639559434976284,0.010265777056231764
+E5 Embudo MOOC bajo,usuario,6,Pop. por segmento + reglas − Popularidad,0.047266005341469436,0.0017437335345734267
+E5 Embudo MOOC bajo,global,7,LightFM + reglas − Pop. por segmento + reglas,-0.0025777936356236185,0.9341534557572899
+E5 Embudo MOOC bajo,global,7,LightFM + reglas − Popularidad,0.02449059239967145,0.12063495985557725
+E5 Embudo MOOC bajo,global,7,Pop. por segmento + reglas − Popularidad,0.027068386035295072,0.1635962513193857
+E5 Embudo MOOC bajo,usuario,7,LightFM + reglas − Pop. por segmento + reglas,0.014679262332275228,0.3332910687695775
+E5 Embudo MOOC bajo,usuario,7,LightFM + reglas − Popularidad,0.046131170389769424,0.000784432359253234
+E5 Embudo MOOC bajo,usuario,7,Pop. por segmento + reglas − Popularidad,0.03145190805749419,0.05343601328996996
+E5 Embudo MOOC bajo,global,8,LightFM + reglas − Pop. por segmento + reglas,0.0008603623238953135,0.7534222584705903
+E5 Embudo MOOC bajo,global,8,LightFM + reglas − Popularidad,0.04640255167170277,0.007195353346718577
+E5 Embudo MOOC bajo,global,8,Pop. por segmento + reglas − Popularidad,0.04554218934780745,0.02365134941103145
+E5 Embudo MOOC bajo,usuario,8,LightFM + reglas − Pop. por segmento + reglas,-0.0012060377294505677,0.9110087555109279
+E5 Embudo MOOC bajo,usuario,8,LightFM + reglas − Popularidad,0.026593084123584246,0.03981219843919214
+E5 Embudo MOOC bajo,usuario,8,Pop. por segmento + reglas − Popularidad,0.02779912185303482,0.05635374036659206
+E5 Embudo MOOC bajo,global,9,LightFM + reglas − Pop. por segmento + reglas,-0.013376641183973305,0.5325226864185918
+E5 Embudo MOOC bajo,global,9,LightFM + reglas − Popularidad,0.028994801618822317,0.1370207915375339
+E5 Embudo MOOC bajo,global,9,Pop. por segmento + reglas − Popularidad,0.04237144280279562,0.01491477854765198
+E5 Embudo MOOC bajo,usuario,9,LightFM + reglas − Pop. por segmento + reglas,-0.02687476880236426,0.06346862097385796
+E5 Embudo MOOC bajo,usuario,9,LightFM + reglas − Popularidad,0.010369707005962622,0.2619800099302002
+E5 Embudo MOOC bajo,usuario,9,Pop. por segmento + reglas − Popularidad,0.03724447580832689,0.018159140156508182

@@ -1,0 +1,3 @@
+,dif. media,IC95 inf,IC95 sup,mejora,empeora,p (Wilcoxon),p ajustado (Holm),¿significativo al 5 %?
+LightFM solo atributos + reglas · formulario completo,0.004356540526565022,-0.029462763426804733,0.037301138203419265,39.0,30.0,0.6260546809383709,1.0,no
+Contenido por perfil + reglas,-0.006099866967515868,-0.0511259533434938,0.037110334386296615,38.0,33.0,0.9474539873975604,1.0,no
