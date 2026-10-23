@@ -58,13 +58,21 @@ def cargar():
         m = dict(np.load(DIR / "lightfm_final.npz", allow_pickle=True))
         assert list(m["course_ids"]) == list(cursos.course_id), "El orden de cursos no coincide con el modelo"
     except Exception as e:                       # incidencia: sin modelo → respaldo por popularidad
-        st.warning(f"No se pudo cargar el modelo LightFM ({e}). Se usará la popularidad filtrada como respaldo.")
+        st.warning(f"No se pudo cargar el modelo LightFM ({e}). Se usará la popularidad por objetivo laboral (con reglas) como respaldo.")
         m = None
     return cursos, usuarios, inscritos, cfg, m
 
 
 cursos, usuarios, inscritos, cfg, M = cargar()
 POP = M["popularidad"] if M is not None else np.zeros(len(cursos))
+_CID = {c: i for i, c in enumerate(cursos.course_id)}
+_OBJ = usuarios.set_index("user_id")["objetivo_laboral"].to_dict()
+SEG = {}                                   # popularidad por objetivo laboral (respaldo mas fuerte que la global)
+for _u, _cs in inscritos.items():
+    v = SEG.setdefault(_OBJ[_u], np.zeros(len(cursos)))
+    for _c in _cs:
+        v[_CID[_c]] += 1
+
 FEAT = {f: i for i, f in enumerate(M["user_feature_names"])} if M is not None else {}
 UIDX = {u: i for i, u in enumerate(M["user_ids"])} if M is not None else {}
 
@@ -80,8 +88,8 @@ def atributos_usuario(p: dict) -> list:
 
 
 def puntajes(perfil: dict, user_id=None) -> np.ndarray:
-    if M is None:
-        return POP.astype(float)
+    if M is None:                                          # respaldo: popularidad por objetivo laboral (+ reglas en top_n)
+        return SEG.get(perfil["objetivo_laboral"], POP).astype(float) + 0.001 * POP
     if user_id is not None and user_id in UIDX:            # estudiante registrado: embedding aprendido
         k = UIDX[user_id]
         return M["user_emb"][k] @ M["item_emb"].T + M["item_bias"] + M["user_bias"][k]
@@ -159,7 +167,9 @@ with st.sidebar:
     st.markdown("**Modelo en uso**")
     st.markdown(f"{cfg.get('modelo', 'LightFM')}  \n"
                 f"NDCG@10 en prueba: **{met.get('ndcg', 0):.3f}** · Hit Rate@10: **{met.get('hit_rate', 0):.0%}**  \n"
-                f"Popularidad (baseline): NDCG@10 0.134 · Hit Rate@10 35 %")
+                f"Popularidad global: NDCG@10 0.134 · Hit Rate@10 35 %  \n"
+                f"Popularidad por objetivo + reglas: NDCG@10 0.183 · Hit Rate@10 44 %  \n"
+                f"Techo del simulador (oráculo): NDCG@10 0.293")
 
 # ---- Perfil
 if modo == "Estudiante registrado":
