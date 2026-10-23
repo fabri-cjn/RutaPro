@@ -9,6 +9,7 @@ Modelo: LightFM híbrido (WARP, 64 factores) + reglas de idioma y nivel.
 Los puntajes se calculan con numpy a partir de los embeddings exportados en
 02_Notebooks/03_Evaluacion.ipynb, por lo que la app no necesita instalar LightFM.
 """
+import base64
 import json
 from pathlib import Path
 
@@ -44,6 +45,22 @@ st.markdown("""
 .rp-rank {font-size: 1.6rem; font-weight: 700; color: #2a78d6; line-height: 1;}
 </style>""", unsafe_allow_html=True)
 
+# Fondo de la app: dibujo minimalista en la esquina inferior derecha
+def poner_fondo(nombre):
+    ruta = Path(__file__).parent / nombre
+    if not ruta.exists():          # si falta la imagen, la app sigue funcionando sin fondo
+        return
+    img = base64.b64encode(ruta.read_bytes()).decode()
+    st.markdown(f"""
+    <style>
+    [data-testid="stAppViewContainer"] {{
+        background: url("data:image/jpeg;base64,{img}") right bottom / cover no-repeat fixed;
+    }}
+    [data-testid="stHeader"] {{ background: rgba(0,0,0,0); }}
+    </style>
+    """, unsafe_allow_html=True)
+
+poner_fondo("fondo.jpg")
 
 # ---------------------------------------------------------------------------
 # Carga de datos y modelo
